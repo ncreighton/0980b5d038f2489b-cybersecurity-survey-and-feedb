@@ -1,0 +1,2 @@
+# 0980b5d038f2489b-cybersecurity-survey-and-feedb
+Every cybersecurity professionals needs this — most just don't know it yet.  Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - Cybersecurity Survey And Feedback Collection — fully configured and ready to use - One-click activation directly from
